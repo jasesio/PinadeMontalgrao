@@ -106,6 +106,9 @@ padding-top: 2rem;
   object-fit: cover; 
 }
 
+.image-tomates img {
+  width: 100%;
+}
 
 @supports not (display: grid) {
 .container-fluid {
